@@ -134,7 +134,7 @@ I'm actively looking for opportunities in **AI/ML Engineering** internships.
 If you're working on something interesting, I'd love to chat!
 
 [![GitHub](https://img.shields.io/badge/GitHub-visharaaa-181717?style=for-the-badge&logo=github)](https://github.com/visharaaa)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visharajayalath04@gmail.com)
 
 <br/>
 
