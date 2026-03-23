@@ -3,7 +3,7 @@
 <!-- Capsule Header Banner -->
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Building+things+that+learn+%F0%9F%A7%A0;ML+%7C+Deep+Learning+%7C+Full-Stack+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+things+that+learn+%F0%9F%A7%A0;ML+%7C+Deep+Learning+%7C+Full-Stack+AI" alt="Typing SVG" />
 </a>
 
 <br/>
