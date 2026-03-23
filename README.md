@@ -11,7 +11,6 @@
 <!-- Social badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-visharaaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/visharaaa)
 [![Location](https://img.shields.io/badge/📍-Colombo%2C%20Sri%20Lanka-302b63?style=for-the-badge)](https://github.com/visharaaa)
-[![Open to Work](https://img.shields.io/badge/✅-Open%20to%20Work-4ade80?style=for-the-badge)](https://github.com/visharaaa)
 
 </div>
 
