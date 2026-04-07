@@ -111,21 +111,6 @@ Strong foundations across multiple paradigms, languages, and system types:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=visharaaa&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visharaaa&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=visharaaa&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="165"/>
-
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
