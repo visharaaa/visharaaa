@@ -2,14 +2,9 @@
 
 <!-- Capsule Header Banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+things+that+learn+%F0%9F%A7%A0;ML+%7C+Deep+Learning+%7C+Full-Stack+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;ML+%7C+Deep+Learning+%7C+Full-Stack+AI" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Social badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-visharaaa-0D1117?style=for-the-badge&logo=github&logoColor=22C55E)](https://github.com/visharaaa)
-[![Location](https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka-1F2937?style=for-the-badge&logo=googlemaps&logoColor=38BDF8&labelColor=0D1117)](https://github.com/visharaaa)
 
 </div>
 
