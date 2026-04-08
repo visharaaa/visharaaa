@@ -27,29 +27,6 @@
 
 ---
 
-## AI & Machine Learning
-
-**Core ML Skills:**
-- **Supervised Learning** — Classification & Regression (Decision Trees, Neural Networks, Ensemble Methods)
-- **EDA & Feature Engineering** — Data cleaning, preprocessing, handling imbalanced datasets
-- **Model Evaluation** — Confusion matrices, F1-score, precision/recall, cross-validation, explainability
-- **Computer Vision** — CNN-based image classification pipelines for real-world deployment
-- **Full-Stack AI** — End-to-end ML model integration into deployable web applications
-
----
-
-## Core Software Engineering
-
-Strong foundations across multiple paradigms, languages, and system types:
-
-- **OOP & System Design** — Java & Python; clean class hierarchies, SOLID principles, MVC pattern
-- **Data Structures & Algorithms** — Custom Stack, Queue, and Linked List implementations from scratch
-- **Enterprise Systems** — Government-grade tax processing module with WIMP GUI in Java
-- **Web Development** — Responsive frontends: dynamic menus, shopping carts, interactive UIs
-- **Scripting & Automation** — Python POS systems with inter-system file integration
-
----
-
 ## Tech Stack
 
 <div align="center">
