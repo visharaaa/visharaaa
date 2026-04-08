@@ -5,10 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;ML+%7C+Deep+Learning+%7C+Full-Stack+AI" alt="Typing SVG" />
 </a>
 
-
 </div>
-
----
 
 ## About Me
 
@@ -18,8 +15,6 @@
 - Focus: Machine Learning, Deep Learning, Full-Stack AI
 - Currently: Building intelligent systems that solve real problems
 - Looking for: AI/ML opportunities 
-
----
 
 ## Tech Stack
 
@@ -47,18 +42,11 @@
 
 </div>
 
----
-
 ## Let's Connect
 
 <div align="center">
 
 I'm actively looking for opportunities in **AI/ML Engineering** internships.
 If you're working on something interesting, I'd love to chat!
-
-[![GitHub](https://img.shields.io/badge/GitHub-visharaaa-0D1117?style=for-the-badge&logo=github&logoColor=22C55E)](https://github.com/visharaaa)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:visharajayalath04@gmail.com)
-
-<br/>
 
 </div>
