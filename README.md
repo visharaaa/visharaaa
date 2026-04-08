@@ -29,32 +29,12 @@
 
 ## AI & Machine Learning
 
-<div align="center">
-
-![ML](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF9F43?style=for-the-badge&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-A78BFA?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4FC3F7?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
 **Core ML Skills:**
 - **Supervised Learning** — Classification & Regression (Decision Trees, Neural Networks, Ensemble Methods)
 - **EDA & Feature Engineering** — Data cleaning, preprocessing, handling imbalanced datasets
 - **Model Evaluation** — Confusion matrices, F1-score, precision/recall, cross-validation, explainability
 - **Computer Vision** — CNN-based image classification pipelines for real-world deployment
 - **Full-Stack AI** — End-to-end ML model integration into deployable web applications
-
-### Featured AI Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|:---:|:---|:---:|
-| [**TeaCareAI**](https://github.com/visharaaa/TeaCareAI) | Full-stack web app detecting tea plant diseases from leaf images. Upload a photo → instant AI diagnosis + treatment recommendations. | `Python` `TensorFlow` `Keras` |
-| [**Telco-Churn-ML**](https://github.com/visharaaa/Telco-Churn-ML) | Predicts customer churn on the Kaggle Telco dataset. Benchmarks Decision Tree vs Neural Network with full evaluation metrics & explainability. | `Python` `Scikit-learn` `Jupyter` |
-
-</div>
 
 ---
 
@@ -67,19 +47,6 @@ Strong foundations across multiple paradigms, languages, and system types:
 - **Enterprise Systems** — Government-grade tax processing module with WIMP GUI in Java
 - **Web Development** — Responsive frontends: dynamic menus, shopping carts, interactive UIs
 - **Scripting & Automation** — Python POS systems with inter-system file integration
-
-### Other Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|:---:|:---|:---:|
-| [**TaskManager**](https://github.com/visharaaa/TaskManager) | Task management built on custom data structures — no built-in collections. | `Java` |
-| [**gov_taxdept_system**](https://github.com/visharaaa/gov_taxdept_system) | Tax file processing module for a government digitization initiative. | `Java` |
-| [**python_pos_system**](https://github.com/visharaaa/python_pos_system) | POS system with tax file output, integrated with a JavaFX tax system. | `Python` |
-| [**miso**](https://github.com/visharaaa/miso) | Responsive restaurant website with dynamic menu and shopping cart. | `HTML` `CSS` `JS` |
-
-</div>
 
 ---
 
