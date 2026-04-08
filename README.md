@@ -1,16 +1,15 @@
 <div align="center">
 
 <!-- Capsule Header Banner -->
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+things+that+learn+%F0%9F%A7%A0;ML+%7C+Deep+Learning+%7C+Full-Stack+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+things+that+learn+%F0%9F%A7%A0;ML+%7C+Deep+Learning+%7C+Full-Stack+AI" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-visharaaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/visharaaa)
-[![Location](https://img.shields.io/badge/📍-Colombo%2C%20Sri%20Lanka-302b63?style=for-the-badge)](https://github.com/visharaaa)
+[![GitHub](https://img.shields.io/badge/GitHub-visharaaa-0D1117?style=for-the-badge&logo=github&logoColor=22C55E)](https://github.com/visharaaa)
+[![Location](https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka-1F2937?style=for-the-badge&logo=googlemaps&logoColor=38BDF8&labelColor=0D1117)](https://github.com/visharaaa)
 
 </div>
 
@@ -62,8 +61,8 @@
 I'm actively looking for opportunities in **AI/ML Engineering** internships.
 If you're working on something interesting, I'd love to chat!
 
-[![GitHub](https://img.shields.io/badge/GitHub-visharaaa-181717?style=for-the-badge&logo=github)](https://github.com/visharaaa)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visharajayalath04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-visharaaa-0D1117?style=for-the-badge&logo=github&logoColor=22C55E)](https://github.com/visharaaa)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:visharajayalath04@gmail.com)
 
 <br/>
 
