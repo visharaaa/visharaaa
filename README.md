@@ -26,6 +26,8 @@
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![R Markdown](https://skillicons.dev/icons?i=r)](https://rmarkdown.rstudio.com/)
 
 ### AI / Data Science
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
@@ -39,6 +41,7 @@
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
 
 </div>
 
