@@ -12,7 +12,7 @@
 - Name: Vishara Jayalath
 - Degree: AI & Data Science
 - Location: Colombo, Sri Lanka
-- Focus: Machine Learning, Deep Learning, Full-Stack AI
+- Focus: Machine Learning, Full-Stack AI
 - Currently: Building intelligent systems that solve real problems
 - Looking for: AI/ML opportunities 
 
@@ -29,7 +29,7 @@
 [![SQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![R Markdown](https://skillicons.dev/icons?i=r)](https://rmarkdown.rstudio.com/)
 
-### AI / Data Science
+### AI / Data Science 
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 [![Sklearn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
