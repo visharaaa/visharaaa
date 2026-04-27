@@ -45,11 +45,4 @@
 
 </div>
 
-## Let's Connect
 
-<div align="center">
-
-I'm actively looking for opportunities in **AI/ML Engineering** internships.
-If you're working on something interesting, I'd love to chat!
-
-</div>
