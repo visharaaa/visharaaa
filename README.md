@@ -16,7 +16,7 @@ pytorch · tensorflow · keras
 
 ［ links ］
 ────────────────────────
-<a href="mailto:visharajayalath04@gmail.com">visharajayalath04@gmail.com</a> · <a href="https://vishara-jayalath.vercel.app/">portfolio</a>
+<a href="mailto:visharajayalath04@gmail.com">visharajayalath04@gmail.com</a> · <a href="https://vishara-jayalath.vercel.app/">portfolio</a> · <a href="https://github.com/visharaaa/tex-cv-template/blob/main/main.pdf">resume</a>
   </pre>
 </div>
 
