@@ -12,7 +12,7 @@ servicenow intern @ next · ai engineer
 ［ tech stack ］
 ────────────────────────
 python · ai · machine learning  
-pytorch · tensorflow · keras · sql 
+pytorch · tensorflow · keras 
 
 ［ links ］
 ────────────────────────
