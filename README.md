@@ -3,7 +3,7 @@
 
 ［ vishara jayalath ］
 ────────────────────────
-servicenow intern @ next · ai engineer 
+servicenow intern @ next 
 
 ［ education ］
 ────────────────────────
